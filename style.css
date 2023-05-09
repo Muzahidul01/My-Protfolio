@@ -35,6 +35,10 @@ section {
     font: 700;
 }
 
+.zz {
+    width: 50%;
+}
+
 #o {
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
@@ -66,8 +70,14 @@ image {
     ;
 }
 
+.tt {
+    display: flex;
+    margin: 150px;
+}
+
 #q {
     text-align: center;
+    width: 50%;
 }
 
 #p {
