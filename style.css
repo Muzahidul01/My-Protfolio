@@ -37,6 +37,23 @@ section {
 
 .zz {
     width: 50%;
+    box-shadow: 10px 5px 5px red;
+    padding-left: 82px;
+    box-shadow: 2px black;
+    border: solid red 2px;
+    border-radius: 20px;
+    /* existing styles */
+    margin-right: 120px;
+    text-underline-offset: ;
+}
+
+.za {
+    width: 50%;
+    box-shadow: 10px 5px 5px red;
+    padding-left: 82px;
+    box-shadow: 2px black;
+    border: solid red 2px;
+    border-radius: 20px;
 }
 
 #o {
@@ -53,12 +70,21 @@ image {
     color: red;
 }
 
+.underline {
+    text-decoration: underline red;
+
+}
+
 .z {
     padding-left: 20%;
     color: rgb(0, 0, 0);
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
     margin: 0;
+}
+
+.lastaa {
+    text-underline-offset: auto;
 }
 
 .down {
