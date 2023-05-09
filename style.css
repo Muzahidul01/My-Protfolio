@@ -23,8 +23,9 @@ section {
 
 .a img {
     width: 100%;
-    padding-right: 500px;
+    /* padding-right: 500px; */
     padding-bottom: 50%;
+    padding-left: 129px;
 }
 
 .photo {
@@ -39,3 +40,43 @@ section {
     background-repeat: no-repeat;
     margin: 0px;
 }
+
+image {
+    height: 350px;
+}
+
+.md1 {
+    color: red;
+}
+
+.z {
+    padding-left: 20%;
+    color: rgb(0, 0, 0);
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.down {
+
+    padding: 7px 25px;
+    background-image: linear-gradient(red, orange);
+    color: rgb(255, 255, 255);
+    font: 700;
+    ;
+}
+
+#q {
+    text-align: center;
+}
+
+#p {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+/* .m {
+    height: 350px;
+    width: fit-content;
+    box-sizing: border-box;
+} */
